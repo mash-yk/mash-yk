@@ -1,6 +1,6 @@
 # Hi, I'm Mashrekin 👋
 
-Final-year Computer Science & Engineering student at **BRAC University**, Dhaka (CGPA 3.92, graduating December 2026). I build full-stack web apps with the MERN stack and enjoy wiring AI APIs into products people can actually use.
+Final-year Computer Science & Engineering student at **BRAC University**, Dhaka (CGPA 3.92, graduating January 2027). I build full-stack web apps with the MERN stack and enjoy wiring AI APIs into products people can actually use.
 
 - 🔭 Recently built the Pro subscription (bKash), AI recipe generator and progress tracker for **[Calorify](https://github.com/evanmasrurjaber/calorify-ai)**, an AI nutrition platform for Bangladeshi users
 - 🎓 Student Tutor for CSE110 (introductory Java programming) at BRAC University since Summer 2025
